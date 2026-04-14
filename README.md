@@ -132,7 +132,7 @@ I'm always interested in collaborating on interesting projects or discussing bac
 - [ ] ~~Obtain Microsoft certifications (Azure/ASP.NET Core)~~
 - [ ] ~~Build and deploy cloud-native applications~~
 - [ ] ~~Expand knowledge in DevOps practices~~
-- [ ] Finding a job 🥲
+- [ ] Finding a job 😭
 
 ---
 
