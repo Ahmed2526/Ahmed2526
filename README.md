@@ -128,11 +128,11 @@ I'm always interested in collaborating on interesting projects or discussing bac
 
 ## 🌱 Professional Goals 2026
 
-- [ ] Master Microservices architecture
-- [ ] Contribute to major open-source .NET projects
-- [ ] Obtain Microsoft certifications (Azure/ASP.NET Core)
-- [ ] Build and deploy cloud-native applications
-- [ ] Expand knowledge in DevOps practices
+- [ ] ~~Contribute to major open-source .NET projects~~
+- [ ] ~~Obtain Microsoft certifications (Azure/ASP.NET Core)~~
+- [ ] ~~Build and deploy cloud-native applications~~
+- [ ] ~~Expand knowledge in DevOps practices~~
+- [ ] Finding a job 🥲
 
 ---
 
