@@ -21,7 +21,7 @@ I'm a **Backend Engineer** passionate about building **secure, scalable, and hig
 🎓 **Recent Graduate** - Bachelor of Computer Science (2025)  
 🏆 **Graduation Project** - MedLink API (Rated Excellent)  
 💼 **Focus** - Enterprise-level backend development with ASP.NET Core  
-📚 **Currently Learning** - Microservices Architecture & Advanced Design Patterns
+📚 **Currently Learning** - Advanced .Net Topics
 
 ### What I Do Best
 ```csharp
