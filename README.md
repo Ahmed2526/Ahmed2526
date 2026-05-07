@@ -27,7 +27,7 @@ I'm a **Backend Engineer** passionate about building **secure, scalable, and hig
 ```csharp
 var expertise = new BackendEngineer
 {
-    Architecture = "Clean 3-Tier & Onion Architecture",
+    Architecture = "Clean Architecture & 3-Tier & Onion Architecture",
     Focus = "Scalable RESTful APIs with ASP.NET Core",
     Specialty = new[] { "Security", "Performance", "Maintainability" },
     Passion = "Writing clean, testable, and production-ready code"
